@@ -19,12 +19,12 @@ public class Rope
 		System.out.println("\tTest not implemented yet.");
 		
 		System.out.println("\nTesting substring(String, int)");
-		System.out.println("\tTest not implemented yet.");
+		System.out.println("\tTest ") + countstring ());
 		
 		System.out.println("\nTesting equals(String, String)");
 		System.out.println("\tTest not implemented yet.");
 	}
-	
+
 	
 	//Return the index where needle is located in haystack
 	//or return -1 if needle is not found
@@ -42,7 +42,7 @@ public class Rope
 	//Return how many vowles (aeiou) are in source
 	public int countVowels(String source)
 	{
-		return -1;
+		String.Substring ("a""e""i""o""u")
 	}
 	
 	//Return the substring of source starting at offset and continuing to the end of the String
