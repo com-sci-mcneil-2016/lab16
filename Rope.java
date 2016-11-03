@@ -52,6 +52,7 @@ public class Rope
 	}
 	
 	
+	//Return true if a and b contain the same characters in the same order (case sensitive)
 	public boolean equals(String a, String b)
 	{
 		return false;
